@@ -1,12 +1,13 @@
 # AI_for_Wechat_tiaoyitiao
 人工智能助手 自动微信跳一跳 小游戏  
 
-####作者：刘云飞
-wechat：lyffly  
+#### 作者：刘云飞  
+ wechat：lyffly  
 ## 0x00
- 支持手机：安卓Android系统 分辨率为1920 * 1080 pix  
+ 支持手机：安卓Android系统 分辨率为1920 * 1080 pix   
  电脑端：windows
-
+ 人工智能版差别在哪：期待AI理解距离的概念，在跳的时候只跳大概距离，不是每次跳中心，非一个精确的数值，这样也可以防止刷分被ban。
+ 
 ## 0x01
  首先按照下面进行配置adb和Python环境  
  
