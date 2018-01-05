@@ -5,7 +5,7 @@
  wechat：lyffly  
 ## 0x00
  支持手机：安卓Android系统 分辨率为1920 * 1080 pix   
- 电脑端：windows
+ 电脑端：windows  
  人工智能版差别在哪：期待AI理解距离的概念，在跳的时候只跳大概距离，不是每次跳中心，非一个精确的数值，这样也可以防止刷分被ban。
  
 ## 0x01
@@ -30,7 +30,7 @@ python predict.py
 ```
 即可开始游戏  
 
-截图例
+截图  
 ![](https://github.com/lyffly/AI_for_Wechat_tiaoyitiao/blob/master/imgs/demo.png)
 
 ## 如果只想刷分，不要再往下看
