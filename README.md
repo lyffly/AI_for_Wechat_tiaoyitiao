@@ -5,7 +5,7 @@
  支持手机：安卓Android系统 分辨率为1920 * 1080 pix
  电脑端：windows
 
-##0x01
+## 0x01
  首先按照下面进行配置adb和Python环境
  
 https://github.com/wangshub/wechat_jump_game
@@ -40,6 +40,7 @@ python predict.py
   训练图片共3502张，准确率约95%，训练显卡（1050ti），时长约10小时。
 
 网络结构如下
+```shell
 _________________________________________________________________
 Layer (type)                 Output Shape              Param #   
 =================================================================
@@ -78,7 +79,7 @@ Trainable params: 596,731
 Non-trainable params: 0
 _________________________________________________________________
 Found 3502 images belonging to 27 classes.
-
+```
 
 待更新
 
