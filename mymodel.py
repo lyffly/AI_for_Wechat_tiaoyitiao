@@ -5,7 +5,7 @@ import numpy as np
 import random
 from keras import layers
 from keras import models
-
+from keras.utils import plot_model
 
 model = models.Sequential()
 model.add(layers.Conv2D(16,(3,3),activation='relu',input_shape=(135,240,3),padding = 'same'))
@@ -24,5 +24,5 @@ model.add(layers.Dense(128,activation="relu"))
 model.add(layers.Dropout(0.5))
 model.add(layers.Dense(27,activation="softmax"))
 
-
-
+model.summary()
+#plot_model(model, to_file='model.png')
