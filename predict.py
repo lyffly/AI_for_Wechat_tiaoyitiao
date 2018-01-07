@@ -13,7 +13,7 @@ import math
 from PIL import Image, ImageDraw
 import random
 import json
-from mymodel import model
+from mymodel import get_model
 
 def pull_screenshot():
     
@@ -30,7 +30,9 @@ def maxNoOfArry(arry):
             i =i + 1  
     return no 
 
+model = get_model()
 model.load_weights("first.h5")
+print("Start---->>>>>>>")
 
 while True:
         pull_screenshot()        
