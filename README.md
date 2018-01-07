@@ -42,6 +42,9 @@ python predict.py
  备注：本文代码除 深度学习 部分为本人编写  
        其他代码来源于https://github.com/wangshub/wechat_jump_game  
 
+ 训练使用的图片已经共享：  
+ 链接：https://pan.baidu.com/s/1mhCz1Bq 密码：lih7
+
 
 ## 0x06
   知识背景：深度学习，CNN  
