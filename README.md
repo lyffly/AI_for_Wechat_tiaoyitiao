@@ -11,7 +11,7 @@
 ## 0x01
  首先按照下面进行配置adb和Python环境  
  
-https://github.com/wangshub/wechat_jump_game
+[https://github.com/wangshub/wechat_jump_game](https://github.com/wangshub/wechat_jump_game "https://github.com/wangshub/wechat_jump_game")
 
 ## 0x02
  安装tensorflow和keras
@@ -29,6 +29,9 @@ pip install keras
 python predict.py
 ```
 即可开始游戏  
+
+效果见视频
+[http://www.bilibili.com/video/av17998366](http://www.bilibili.com/video/av17998366 "http://www.bilibili.com/video/av17998366")
 
 截图  
 ![](https://github.com/lyffly/AI_for_Wechat_tiaoyitiao/blob/master/imgs/demo.png)
@@ -86,5 +89,5 @@ _________________________________________________________________
 Found 3502 images belonging to 27 classes.
 ```
 
-待更新
+持续更新中
 
